@@ -1,4 +1,4 @@
-## Linux kernel source code for ZTEBladeL2
+## Linux kernel source code 3.4.67 for ZTEBladeL2
 
 
  
